@@ -1,0 +1,12 @@
+name: CFBStats
+title: CFBStats
+username: jfig00
+account: jfig00
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10597510
+bundleId: 7955203
+url: https://jfig00.shinyapps.io/CFBStats/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
